@@ -151,9 +151,11 @@ yarn test
 ```
 
 ```bash
-# start the api server
+# start the api server run on port 7000 by default
 yarn dev
 ```
+
+> If you want to use a custom port create a `.env` file with your port. Look at `.env.example` for a reference
 
 ### Approach
 
