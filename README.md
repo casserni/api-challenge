@@ -1,4 +1,4 @@
-# SentinelOne API
+# API Challenge
 
 Backend Developer — Apps Team
 
